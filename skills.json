@@ -1,0 +1,21 @@
+{
+  "Python": ["Python", "パイソン", "Py"],
+  "Pandas": ["Pandas", "パンダス"],
+  "NumPy": ["NumPy", "ナムパイ", "numpy"],
+  "SQL": ["SQL", "エスキューエル"],
+  "Tableau": ["Tableau", "タブロー"],
+  "AWS": ["AWS", "アマゾンウェブサービス", "Amazon Web Services"],
+  "GCP": ["GCP", "グーグルクラウド", "Google Cloud"],
+  "Azure": ["Azure", "アジュール", "Microsoft Azure"],
+  "Docker": ["Docker", "ドッカー"],
+  "Kubernetes": ["Kubernetes", "クバネティス", "K8s"],
+  "Linux": ["Linux", "リナックス"],
+  "Git": ["Git", "ギット"],
+  "React": ["React", "リアクト"],
+  "Django": ["Django", "ジャンゴ"],
+  "FastAPI": ["FastAPI", "ファストエーピーアイ"],
+  "Go": ["Go", "Golang", "ゴー"],
+  "Java": ["Java", "ジャバ"],
+  "TypeScript": ["TypeScript", "タイプスクリプト"],
+  "Japanese N2+": ["JLPT N2", "日本語N2", "ビジネス日本語"]
+}
